@@ -1,3 +1,5 @@
 # Your code goes here!
 class Dog 
-  attr_accessor 
+  attr_accessor :name 
+  
+
