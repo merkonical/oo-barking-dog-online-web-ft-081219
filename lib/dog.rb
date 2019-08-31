@@ -3,4 +3,7 @@ class Dog
   attr_accessor :name 
   
   def name(dog_name)
-    @name = 
+    @name = dog_name 
+  end 
+  
+  
